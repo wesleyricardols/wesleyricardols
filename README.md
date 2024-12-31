@@ -1,4 +1,3 @@
-<h1 align="justify">Wesley Ricardo</h1>
 <h3 align="justify">I'm Software Developer with over 10 years of experience in analysis, design, development, test, building APIs and supporting Windows / Web Applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyricardols&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyricardols" /> </p>
 
